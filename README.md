@@ -32,4 +32,4 @@ positive   "According to the company's updated strategy for the years 2009-2012,
 
 LSTM_finance_sentiment_analysis.ipynb
 ---
-- 한국어 테스트 데이터에 대해서 정확도 77.95% 확인한 튜토리얼 코드.
+- 데이터 유효성 검증을 위해 LSTM으로 텍스트 분류를 수행하였을  한국어 테스트 데이터에서 정확도 77.95% 확인.
