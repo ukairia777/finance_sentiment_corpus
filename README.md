@@ -29,3 +29,7 @@ negative   "The international electronic industry company Elcoteq has laid off t
 positive   With the new production plant the company would increase its capacity to meet the expected increase in demand and would improve the use of raw materials and therefore increase the production profitability.   새로운 생산공장으로 인해 회사는 예상되는 수요 증가를 충족시킬 수 있는 능력을 증가시키고 원자재 사용을 개선하여 생산 수익성을 높일 것이다.
 positive   "According to the company's updated strategy for the years 2009-2012, Basware targets a long-term net sales growth in the range of 20 % -40 % with an operating profit margin of 10 % -20 % of net sales."   "2009-2012년 회사의 업데이트된 전략에 따르면, Basware는 20% - 40% 범위의 장기적인 순매출 성장을 목표로 하고 있으며, 영업이익률은 순매출액의 10% - 20%를 목표로 하고 있습니다."
 ```
+
+LSTM_finance_sentiment_analysis.ipynb
+---
+- 데이터 유효성 검증을 위해 LSTM으로 텍스트 분류를 수행하였을  한국어 테스트 데이터에서 정확도 77.95% 확인.
