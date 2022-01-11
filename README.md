@@ -44,5 +44,5 @@ positive   "According to the company's updated strategy for the years 2009-2012,
  : LSTM으로 텍스트 분류 시 한국어 테스트 데이터에서 정확도 77.95% 확인.  
 - BERT_sentiment_analysis_eng.ipynb  
  : 구글 BERT로 텍스트 분류 시 영어 테스트 데이터에서 정확도 85.85% 확인.  
-- BERT_sentiment_analysis_kor.ipynb 
+- BERT_sentiment_analysis_kor.ipynb  
  : 한국어 BERT로 텍스트 분류 시 한국어 테스트 데이터에서 정확도 85.82% 확인.  
