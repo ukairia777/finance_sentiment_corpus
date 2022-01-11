@@ -1,4 +1,4 @@
-# 금융 감성 분석 데이터셋 (finance sentiment corpus)
+# 금융 뉴스 문장 감성 분석 데이터셋 (finance sentiment corpus)
 금융 감성 분석에 사용할 수 있는 긍정(positive), 중립(neutral), 부정(negative)이 라벨링이 된 텍스트 데이터입니다.  
 
 한국어 금융 분석 모델 개발을 위해 기존 금융 감성 분석 영어 데이터셋을 번역하여 한국어 버전을 만들었습니다.  
@@ -39,7 +39,7 @@ positive   "According to the company's updated strategy for the years 2009-2012,
 훈련 데이터와 테스트 데이터를 8:2 비율로 분할 후 훈련 데이터의 20%를 다시 검증 데이터로 사용.
 
 - **LSTM_sentiment_analysis_eng.ipynb**  
- : LSTM으로 테스트 데이터에서 정확도 77.38% 확인.  
+ : LSTM으로 영어 테스트 데이터에서 정확도 77.38% 확인.  
  
 - **LSTM_sentiment_analysis_kor.ipynb**  
  : LSTM으로 한국어 테스트 데이터에서 정확도 77.95% 확인.  
