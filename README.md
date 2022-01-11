@@ -4,7 +4,7 @@ finance sentiment corpus v1.0
 finance_data.csv
 ---
 언어 : 영어, 한국어  
-원출처 : Finance Phrase Bank (Malo et al., 2014)
+출처 : Finance Phrase Bank (Malo et al., 2014)
 
 Data description (eng)
 ---
