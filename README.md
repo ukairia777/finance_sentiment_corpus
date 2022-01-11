@@ -1,2 +1,2 @@
 # finance_sentiment_corpus
-finance sentiment movie corpus v1.0
+finance sentiment corpus v1.0
