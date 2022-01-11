@@ -1,5 +1,7 @@
 # finance_sentiment_corpus
-finance sentiment corpus v1.0
+finance sentiment corpus v1.0  
+금융 감성 분석에 사용할 수 있는 긍정(positive), 중립(neutral), 부정(negative)이 라벨링이 된 텍스트 데이터입니다.  
+금융 감성 분석을 위한 영어 데이터로 한국어 금융 분석 모델 개발을 위해 한국어로 번역하였습니다.  
 
 finance_data.csv
 ---
