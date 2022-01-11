@@ -39,10 +39,13 @@ positive   "According to the company's updated strategy for the years 2009-2012,
 훈련 데이터와 테스트 데이터를 8:2 비율로 분할 후 훈련 데이터의 20%를 다시 검증 데이터로 사용.
 
 - **LSTM_sentiment_analysis_eng.ipynb**  
- : LSTM으로 텍스트 분류 시 영어 테스트 데이터에서 정확도 77.38% 확인.  
+ : LSTM으로 테스트 데이터에서 정확도 77.38% 확인.  
+ 
 - **LSTM_sentiment_analysis_kor.ipynb**  
- : LSTM으로 텍스트 분류 시 한국어 테스트 데이터에서 정확도 77.95% 확인.  
+ : LSTM으로 한국어 테스트 데이터에서 정확도 77.95% 확인.  
+ 
 - **BERT_sentiment_analysis_eng.ipynb**  
- : 구글 BERT로 텍스트 분류 시 영어 테스트 데이터에서 정확도 85.85% 확인.  
+ : 구글 BERT로 영어 테스트 데이터에서 정확도 85.85% 확인.  
+ 
 - **BERT_sentiment_analysis_kor.ipynb**  
- : 한국어 BERT로 텍스트 분류 시 한국어 테스트 데이터에서 정확도 85.82% 확인.  
+ : 한국어 BERT로 한국어 테스트 데이터에서 정확도 85.82% 확인.  
