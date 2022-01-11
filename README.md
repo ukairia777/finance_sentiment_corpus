@@ -10,4 +10,4 @@ Data description (eng)
 
 Data description (kor)
 ---
-위 데이터를 한국어로 번역하였음.
+- 위 데이터를 한국어로 번역하였음.
