@@ -6,7 +6,7 @@
 
 한국어 뉴스 데이터에 대한 감성 분석에 유용하게 쓰일 것으로 기대합니다.  
 
-실험 내용은 아래의 유효성 검증에 기재하였습니다.  
+성능 실험은 아래에 기재하였습니다.  
 
 finance_data.csv
 ---
@@ -36,7 +36,7 @@ positive   With the new production plant the company would increase its capacity
 positive   "According to the company's updated strategy for the years 2009-2012, Basware targets a long-term net sales growth in the range of 20 % -40 % with an operating profit margin of 10 % -20 % of net sales."   "2009-2012년 회사의 업데이트된 전략에 따르면, Basware는 20% - 40% 범위의 장기적인 순매출 성장을 목표로 하고 있으며, 영업이익률은 순매출액의 10% - 20%를 목표로 하고 있습니다."
 ```
 
-기존 영어 데이터에 대한 성능 비교를 통해 한국어 데이터의 유효성 검증
+동일 모델에 대한 기존 영어 데이터와 성능 비교
 ---
 훈련 데이터와 테스트 데이터를 8:2 비율로 분할 후 훈련 데이터의 20%를 다시 검증 데이터로 사용.
 
