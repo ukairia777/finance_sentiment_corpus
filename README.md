@@ -45,7 +45,7 @@ positive   "According to the company's updated strategy for the years 2009-2012,
  : LSTM으로 한국어 테스트 데이터에서 정확도 77.95%  
  
 - **BERT_sentiment_analysis_eng.ipynb**  
- : 구글 BERT로 영어 테스트 데이터에서 정확도 85.85%  
+ : 구글 bert-base-uncased로 영어 테스트 데이터에서 정확도 85.85%  
  
 - **BERT_sentiment_analysis_kor.ipynb**  
- : 한국어 BERT로 한국어 테스트 데이터에서 정확도 85.82%  
+ : 한국어 klue-bert-base로 한국어 테스트 데이터에서 정확도 85.82%  
