@@ -50,7 +50,7 @@ positive   "According to the company's updated strategy for the years 2009-2012,
 - **BERT_sentiment_analysis_kor.ipynb**  
  : 한국어 klue/bert-base로 한국어 테스트 데이터에서 정확도 85.82%  
  
- - **BERT_sentiment_analysis_kor.ipynb**  
+ - **Klue-RoBERT-large**  
  : 한국어 klue/roberta-large로 한국어 테스트 데이터에서 정확도 86.25%  
  
  - **KR-FinElectra**  
