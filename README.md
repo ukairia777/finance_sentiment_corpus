@@ -53,7 +53,7 @@ positive   "According to the company's updated strategy for the years 2009-2012,
  - **BERT_sentiment_analysis_kor.ipynb**  
  : 한국어 klue/roberta-large로 한국어 테스트 데이터에서 정확도 86.25%  
  
- - **KR-FinElectra**
+ - **KR-FinElectra**  
  : 한국어 Finbert로 한국어 테스트 데이터에서 정확도 86.32%
  
 기존 영어 데이터에 대해서 SOTA를 찍은 모델
