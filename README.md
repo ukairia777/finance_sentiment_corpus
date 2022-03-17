@@ -63,3 +63,4 @@ positive   "According to the company's updated strategy for the years 2009-2012,
 To-do List
 ---
  - 기존 Klue-BERT에 대해서 금융 데이터를 post-training(Masked Language Modeling) 후 성능 평가
+ - 추가 금융 테스트 데이터 
