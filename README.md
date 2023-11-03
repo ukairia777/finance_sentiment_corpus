@@ -54,9 +54,3 @@ positive   "According to the company's updated strategy for the years 2009-2012,
 기존 영어 데이터에 대해서 SOTA를 찍은 모델
 ---
  - Finbert: A pretrained Language Model for Financial Communications
-
-To-do List
----
- - 금융 뉴스 21GB를 활용하여 pretraining 금융 BERT 학습 후 평가  
- - 기존에 공개된 Klue-BERT에 대해서 금융 데이터를 추가 학습(Masked Language Modeling) 후 성능 평가  
- - 추가 금융 테스트 데이터 
